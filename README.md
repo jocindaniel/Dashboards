@@ -30,3 +30,7 @@ Interactive KPI cards and visualizations
 Sales and profits have shown consistent growth over the years.
 Technology generated the highest sales among all categories.
 The dashboard enables quick identification of sales trends and category performance.
+
+
+**Dashboard preview**
+<img width="1920" height="1080" alt="Sales DB Img" src="https://github.com/user-attachments/assets/19210537-03f8-453e-ad71-f14d3224147c" />
